@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "uss",
+  "versions": [
+    {
+      "commit": "ca79487ea9b3cfb4a667fb793896a852ce7bd7cf",
+      "parsed_at": "2026-10-20T21:24:57.309947+00:00",
+      "tag": "0.0.18",
+      "filetree": "filetree/ca79487ea9b3cfb4a667fb793896a852ce7bd7cf.nq.gz",
+      "blobs": [
+        "blob/060549673ba4216eaaa2cf0b18b565892014a20d.nq.gz",
+        "blob/6b83bea86142e0a10af1f95df9eaed335eadc467.nq.gz",
+        "blob/7847eab965e29245a661f368c7db7dfcb0744dc9.nq.gz",
+        "blob/8aeba116e2c904764a06b3359b344481dac374b5.nq.gz",
+        "blob/11edb75c6e211676436cd02bfc62ca0b1046c8e7.nq.gz",
+        "blob/32786aa437b1ac88d17aa6f54dfa6679c26a5725.nq.gz",
+        "blob/dada99b34c253f5fe43fefdcb39578df275a5558.nq.gz",
+        "blob/24445e10875e825a900d8001fcb969a9eb681675.nq.gz",
+        "blob/7b0b5e27124e0072ba920dd5844b22099c41c579.nq.gz",
+        "blob/d2018755901b431788cb0d27316d7a432ce1bcbd.nq.gz",
+        "blob/e6d7ebdbe01b77f196628dfdd73671b6c071a9a0.nq.gz",
+        "blob/d8cd54c2ab7b55b8052ca146eaa587b2a96794c1.nq.gz",
+        "blob/649c778b48f9f886d3a834dbe6604c118e4e7a26.nq.gz",
+        "blob/58544be8c65649202b6ab6ac89a74a85b6e58139.nq.gz",
+        "blob/260174cdf29f3dd9af467455dec0b129392242a2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
