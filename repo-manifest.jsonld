@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/uss/commit/ca79487ea9b3cfb4a667fb793896a852ce7bd7cf",
       "git:hexsha": "ca79487ea9b3cfb4a667fb793896a852ce7bd7cf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.18"
     },
     {
