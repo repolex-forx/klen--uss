@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "uss",
+  "versions": [
+    {
+      "commit": "ca79487ea9b3cfb4a667fb793896a852ce7bd7cf",
+      "tag": "0.0.18",
+      "parsed_at": "2026-10-20T21:27:21.080491+00:00"
+    }
+  ]
+}
